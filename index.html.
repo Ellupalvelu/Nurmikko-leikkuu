@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nurmikon leikkipalvelu</title>
+</head>
+<body>
+  <h1>🌱 Nurmikon leikkipalvelu</h1>
+
+  <h2>Leikataan nurmikkoja halvalla!</h2>
+
+  <p>Tarvitsetko apua nurmikon leikkaamiseen?</p>
+  <p>Ota rohkeasti yhteyttä!</p>
+
+  <h2>📞 Yhteystiedot</h2>
+  <p>Puhelin: <strong>+358 45 131 6905</strong></p>
+
+  <h2>🌿 Palvelumme</h2>
+  <ul>
+    <li>Nurmikon leikkaus</li>
+    <li>Edullinen palvelu</li>
+    <li>Huolellinen työnjälki</li>
+  </ul>
+
+</body>
+</html>
